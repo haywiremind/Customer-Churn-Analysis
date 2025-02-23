@@ -99,7 +99,7 @@ The analysis revealed that tenure, contract type, payment method, and monthly ch
 - Integrate customer feedback analysis for sentiment-based insights.
 
 ## Contributors
-- **Your Name** – Data Analysis & Visualization
+- **Dimpal Panchal** – Business Anlysis Intern
 - **Saiket Systems** – Internship & Project Guidance
 
 ---
